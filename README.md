@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @acmer-sqh
+- 👀 I’m interested in Linux/C++ and acm
+- 🌱 I’m currently learning Linux/C++ and acm
+- 💞️ I’m looking to collaborate on Linux/C++ and acm
+- 📫 How to reach me 
+- QQ 292274632
+- email 292274632@qq.com
